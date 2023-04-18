@@ -19,20 +19,10 @@ Staying curious is  🔑 to any solution. It’s amazing what we can accomplish 
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<!-- <table><tr><td valign="top" width="33%"> -->
+<tr><td valign="top" width="33%">
 
-
-
-### Frontend  
-<div align="center">  
   
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -43,17 +33,12 @@ Staying curious is  🔑 to any solution. It’s amazing what we can accomplish 
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+<!-- </td><td valign="top" width="33%"> -->
 
 
-
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
+<!-- </td></tr></table>   -->
+<!-- </div>   -->
+  
 <br/>  
 
 
@@ -76,11 +61,11 @@ Staying curious is  🔑 to any solution. It’s amazing what we can accomplish 
 
 <br/>  
 
-
+<!-- 
 ## Recent Blog Posts  
   
 
-<br/>  
+<br/>   -->
 
   
 
