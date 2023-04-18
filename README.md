@@ -1,4 +1,4 @@
-# <div align="left">Hey there!  👋 I'm Ashley Plasket 👩‍💻  
+# <div align="left">Hey there!  👋 I'm Ashley Plasket   
 
 A brief intro:
 
