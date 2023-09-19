@@ -11,7 +11,7 @@ A brief intro:
 
 Staying curious is 🔑 to any solution. It’s amazing what we can accomplish and learn from people and situations when we’re open to the possibilities.
 
-👩‍🎤 Empathetic-driven developer and passionate about creating innovative solutions that improve efficiency and drive growth.
+👩‍🎤 Empathetic, data-driven developer passionate about creating innovative solutions that improve efficiency, drive growth and empower people to thrive.
 
 🌱 My career started in People Operations, engagement, and analytics. Passionate about creating robust systems and processes, advocating for DEI in tech, and working collaboratively within a team to deliver impactful business results.
 
