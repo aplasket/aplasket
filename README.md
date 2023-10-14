@@ -16,7 +16,7 @@
 
 🧠 Lover of logic puzzles, wordle, and strategic board games.
 
-🌱 My career started in People Operations, engagement, and analytics. Passionate about reducing steep learning curves to company-wide software utilization, creating seamless user experiences and advocating for DEI in tech, I decided to pursue software engineering!
+🌱 My career started in People Operations, engagement, and analytics. Passionate about reducing steep learning curves to software utilization, creating seamless user experiences and advocating for DEI in tech, I decided to pursue software engineering!
 
 👩‍🎤 Leveraging years of experience working cross-collaboratively, I'm an empathetic, data-driven developer who's excited to be a part of creating innovative technical solutions that improve efficiency, drive growth and empower people to thrive.
 
