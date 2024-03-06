@@ -24,7 +24,7 @@
 
 💡 I'm looking for a collaborative engineering team who values excellence, growth, diversity & inclusion, and creating a seamless user experience. I'm excited to be part of a company that is striving to make a positive impact in people’s lives.
 
-📚 My experience is primarily in Ruby and Rails, but given the opportunity, I am confident I can learn any technology and be a valuable asset to the team.   
+📚 My experience is primarily in Ruby/Rails and C#/.Net. Given the opportunity, I am confident I can learn any technology and be a valuable asset to the team.   
   
 
 <br/> 
