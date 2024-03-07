@@ -14,7 +14,7 @@
 
 
 ### Glad to see you here!  
-🚀 I'm a recent graduate from Turing School of Software and Design with a certificate in Backend Engineer!
+🚀 Software engineer
 
 🧠 Lover of logic puzzles, wordle, and strategic board games.
 
