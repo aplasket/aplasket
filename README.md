@@ -8,9 +8,9 @@
 <a href="https://linkedin.com/in/ashley-plasket" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<a href="https://terminal.turing.edu/alumni/1946-ashley-plasket" target="_blank">
+<!-- <a href="https://terminal.turing.edu/alumni/1946-ashley-plasket" target="_blank">
 <img src=https://img.shields.io/badge/Porfolio%20-%20%23ff69b4?style=flat-square alt=portfolio style="height: 28px;" />
-</a>  
+</a>   -->
 
 
 ### Glad to see you here!  
