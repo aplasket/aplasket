@@ -61,16 +61,16 @@
 
 
 
-## Github Stats  
+<!-- ## Github Stats  -->
 <!-- <table><tr><td valign="top" width="50%"> -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=aplasket&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" /> -->
 
-<table><tr><td valign="top" width="50%">
+<!-- <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aplasket&hide_border=true&layout=compact&theme=tokyonight&hide_progress=true" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table> -->
 
 <!-- <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
