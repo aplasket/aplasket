@@ -30,7 +30,7 @@
 <br/> 
 
 ## Languages & Tools
-<table><tr><td valign="top" width="100%">
+<table width="100%"><tr><td valign="top" width="100%">
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
